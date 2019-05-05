@@ -3,3 +3,5 @@ in a cunning act of deception, this doesn't actually read kernel symbols. instea
 
 
 it does what it does. part of an exercise to get back into Rust.
+
+fat greetz to the macho_object documentation.
